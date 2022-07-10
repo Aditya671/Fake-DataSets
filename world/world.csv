@@ -1,0 +1,251 @@
+﻿country_dial_code,sub_region_code,region_name,region_code,official_name_en,sub_region_name,capital,continent,currency_code,developed_developing,is_independent,currency_name,Languages,domain,alpha_3,CLDR display name
+297,419,Americas,19,Aruba,Latin America and the Caribbean,Oranjestad,NA,AWG,Developing,Part of NL,Aruban Florin,"nl-AW,pap,es,en",.aw,ABW,Aruba
+93,34,Asia,142,Afghanistan,Southern Asia,Kabul,AS,AFN,Developing,Yes,Afghani,"fa-AF,ps,uz-AF,tk",.af,AFG,Afghanistan
+244,202,Africa,2,Angola,Sub-Saharan Africa,Luanda,AF,AOA,Developing,Yes,Kwanza,pt-AO,.ao,AGO,Angola
+1-264,419,Americas,19,Anguilla,Latin America and the Caribbean,The Valley,NA,XCD,Developing,Territory of GB,East Caribbean Dollar,en-AI,.ai,AIA,Anguilla
+358,154,Europe,150,Åland,Northern Europe,Mariehamn,EU,EUR,Developed,Part of FI,Euro,sv-AX,.ax,ALA,Åland
+355,39,Europe,150,Albania,Southern Europe,Tirana,EU,ALL,Developed,Yes,Lek,"sq,el",.al,ALB,Albania
+376,39,Europe,150,Andorra,Southern Europe,Andorra la Vella,EU,EUR,Developed,Yes,Euro,ca,.ad,AND,Andorra
+971,145,Asia,142,United Arab Emirates,Western Asia,Abu Dhabi,AS,AED,Developing,Yes,UAE Dirham,"ar-AE,fa,en,hi,ur",.ae,ARE,United Arab Emirates
+54,419,Americas,19,Argentina,Latin America and the Caribbean,Buenos Aires,SA,ARS,Developing,Yes,Argentine Peso,"es-AR,en,it,de,fr,gn",.ar,ARG,Argentina
+374,145,Asia,142,Armenia,Western Asia,Yerevan,AS,AMD,Developing,Yes,Armenian Dram,hy,.am,ARM,Armenia
+1-684,61,Oceania,9,American Samoa,Polynesia,Pago Pago,OC,USD,Developing,Territory of US,US Dollar,"en-AS,sm,to",.as,ASM,American Samoa
+672,,Antarctic,672,Antarctica,Antarctic,,AN,EMP,Developing,International,No universal currency,,.aq,ATA,Antarctica
+262,202,Africa,2,French Southern Territories,Sub-Saharan Africa,Port-aux-Francais,AN,EUR,Developing,Territory of FR,Euro,fr,.tf,ATF,French Southern Territories
+1-268,419,Americas,19,Antigua and Barbuda,Latin America and the Caribbean,St. John's,NA,XCD,Developing,Yes,East Caribbean Dollar,en-AG,.ag,ATG,Antigua & Barbuda
+61,53,Oceania,9,Australia,Australia and New Zealand,Canberra,OC,AUD,Developed,Yes,Australian Dollar,en-AU,.au,AUS,Australia
+43,155,Europe,150,Austria,Western Europe,Vienna,EU,EUR,Developed,Yes,Euro,"de-AT,hr,hu,sl",.at,AUT,Austria
+994,145,Asia,142,Azerbaijan,Western Asia,Baku,AS,AZN,Developing,Yes,Azerbaijan Manat,"az,ru,hy",.az,AZE,Azerbaijan
+257,202,Africa,2,Burundi,Sub-Saharan Africa,Bujumbura,AF,BIF,Developing,Yes,Burundi Franc,"fr-BI,rn",.bi,BDI,Burundi
+32,155,Europe,150,Belgium,Western Europe,Brussels,EU,EUR,Developed,Yes,Euro,"nl-BE,fr-BE,de-BE",.be,BEL,Belgium
+229,202,Africa,2,Benin,Sub-Saharan Africa,Porto-Novo,AF,XOF,Developing,Yes,CFA Franc BCEAO,fr-BJ,.bj,BEN,Benin
+599,419,Americas,19,"Bonaire, Sint Eustatius and Saba",Latin America and the Caribbean,,NA,USD,Developing,Part of NL,US Dollar,"nl,pap,en",.bq,BES,Caribbean Netherlands
+226,202,Africa,2,Burkina Faso,Sub-Saharan Africa,Ouagadougou,AF,XOF,Developing,Yes,CFA Franc BCEAO,"fr-BF,mos",.bf,BFA,Burkina Faso
+880,34,Asia,142,Bangladesh,Southern Asia,Dhaka,AS,BDT,Developing,Yes,Taka,"bn-BD,en",.bd,BGD,Bangladesh
+359,151,Europe,150,Bulgaria,Eastern Europe,Sofia,EU,BGN,Developed,Yes,Bulgarian Lev,"bg,tr-BG,rom",.bg,BGR,Bulgaria
+973,145,Asia,142,Bahrain,Western Asia,Manama,AS,BHD,Developing,Yes,Bahraini Dinar,"ar-BH,en,fa,ur",.bh,BHR,Bahrain
+1-242,419,Americas,19,Bahamas,Latin America and the Caribbean,Nassau,NA,BSD,Developing,Yes,Bahamian Dollar,en-BS,.bs,BHS,Bahamas
+387,39,Europe,150,Bosnia and Herzegovina,Southern Europe,Sarajevo,EU,BAM,Developed,Yes,Convertible Mark,"bs,hr-BA,sr-BA",.ba,BIH,Bosnia
+590,419,Americas,19,Saint BarthÃ©lemy,Latin America and the Caribbean,Gustavia,NA,EUR,Developing,Part of FR,Euro,fr,.gp,BLM,St. BarthÃ©lemy
+375,151,Europe,150,Belarus,Eastern Europe,Minsk,EU,BYN,Developed,Yes,Belarusian Ruble,"be,ru",.by,BLR,Belarus
+501,419,Americas,19,Belize,Latin America and the Caribbean,Belmopan,NA,BZD,Developing,Yes,Belize Dollar,"en-BZ,es",.bz,BLZ,Belize
+1-441,21,Americas,19,Bermuda,Northern America,Hamilton,NA,BMD,Developed,Territory of GB,Bermudian Dollar,"en-BM,pt",.bm,BMU,Bermuda
+591,419,Americas,19,Bolivia (Plurinational State of),Latin America and the Caribbean,Sucre,SA,BOB,Developing,Yes,Boliviano,"es-BO,qu,ay",.bo,BOL,Bolivia
+55,419,Americas,19,Brazil,Latin America and the Caribbean,Brasilia,SA,BRL,Developing,Yes,Brazilian Real,"pt-BR,es,en,fr",.br,BRA,Brazil
+1-246,419,Americas,19,Barbados,Latin America and the Caribbean,Bridgetown,NA,BBD,Developing,Yes,Barbados Dollar,en-BB,.bb,BRB,Barbados
+673,35,Asia,142,Brunei Darussalam,South-eastern Asia,Bandar Seri Begawan,AS,BND,Developing,Yes,Brunei Dollar,"ms-BN,en-BN",.bn,BRN,Brunei
+975,34,Asia,142,Bhutan,Southern Asia,Thimphu,AS,"INR,BTN",Developing,Yes,"Indian Rupee,Ngultrum",dz,.bt,BTN,Bhutan
+47,419,Americas,19,Bouvet Island,Latin America and the Caribbean,,AN,NOK,Developing,Territory of NO,Norwegian Krone,,.bv,BVT,Bouvet Island
+267,202,Africa,2,Botswana,Sub-Saharan Africa,Gaborone,AF,BWP,Developing,Yes,Pula,"en-BW,tn-BW",.bw,BWA,Botswana
+236,202,Africa,2,Central African Republic,Sub-Saharan Africa,Bangui,AF,XAF,Developing,Yes,CFA Franc BEAC,"fr-CF,sg,ln,kg",.cf,CAF,Central African Republic
+1,21,Americas,19,Canada,Northern America,Ottawa,NA,CAD,Developed,Yes,Canadian Dollar,"en-CA,fr-CA,iu",.ca,CAN,Canada
+61,53,Oceania,9,Cocos (Keeling) Islands,Australia and New Zealand,West Island,AS,AUD,Developed,Territory of AU,Australian Dollar,"ms-CC,en",.cc,CCK,Cocos (Keeling) Islands
+41,155,Europe,150,Switzerland,Western Europe,Bern,EU,CHF,Developed,Yes,Swiss Franc,"de-CH,fr-CH,it-CH,rm",.ch,CHE,Switzerland
+56,419,Americas,19,Chile,Latin America and the Caribbean,Santiago,SA,CLP,Developing,Yes,Chilean Peso,es-CL,.cl,CHL,Chile
+86,30,Asia,142,China,Eastern Asia,Beijing,AS,CNY,Developing,Yes,Yuan Renminbi,"zh-CN,yue,wuu,dta,ug,za",.cn,CHN,China
+225,202,Africa,2,Ivory Coast,Sub-Saharan Africa,Yamoussoukro,AF,XOF,Developing,Yes,CFA Franc BCEAO,fr-CI,.ci,CIV,Ivory Coast
+237,202,Africa,2,Cameroon,Sub-Saharan Africa,Yaounde,AF,XAF,Developing,Yes,CFA Franc BEAC,"en-CM,fr-CM",.cm,CMR,Cameroon
+243,202,Africa,2,Democratic Republic of the Congo,Sub-Saharan Africa,Kinshasa,AF,CDF,Developing,Yes,Congolese Franc,"fr-CD,ln,ktu,kg,sw,lua",.cd,COD,Congo - Kinshasa
+242,202,Africa,2,Congo,Sub-Saharan Africa,Brazzaville,AF,XAF,Developing,Yes,CFA Franc BEAC,"fr-CG,kg,ln-CG",.cg,COG,Congo - Brazzaville
+682,61,Oceania,9,Cook Islands,Polynesia,Avarua,OC,NZD,Developing,Associated with NZ,New Zealand Dollar,"en-CK,mi",.ck,COK,Cook Islands
+57,419,Americas,19,Colombia,Latin America and the Caribbean,Bogota,SA,COP,Developing,Yes,Colombian Peso,es-CO,.co,COL,Colombia
+269,202,Africa,2,Comoros,Sub-Saharan Africa,Moroni,AF,KMF,Developing,Yes,Comorian Franc ,"ar,fr-KM",.km,COM,Comoros
+238,202,Africa,2,Cabo Verde,Sub-Saharan Africa,Praia,AF,CVE,Developing,Yes,Cabo Verde Escudo,pt-CV,.cv,CPV,Cape Verde
+506,419,Americas,19,Costa Rica,Latin America and the Caribbean,San Jose,NA,CRC,Developing,Yes,Costa Rican Colon,"es-CR,en",.cr,CRI,Costa Rica
+53,419,Americas,19,Cuba,Latin America and the Caribbean,Havana,NA,"CUP,CUC",Developing,Yes,"Cuban Peso,Peso Convertible","es-CU,pap",.cu,CUB,Cuba
+599,419,Americas,19,Curaçao,Latin America and the Caribbean, Willemstad,NA,ANG,Developing,Part of NL,Netherlands Antillean Guilder,"nl,pap",.cw,CUW,Curaçao
+61,53,Oceania,9,Christmas Island,Australia and New Zealand,Flying Fish Cove,OC,AUD,Developed,Territory of AU,Australian Dollar,"en,zh,ms-CC",.cx,CXR,Christmas Island
+1-345,419,Americas,19,Cayman Islands,Latin America and the Caribbean,George Town,NA,KYD,Developing,Territory of GB,Cayman Islands Dollar,en-KY,.ky,CYM,Cayman Islands
+357,145,Asia,142,Cyprus,Western Asia,Nicosia,EU,EUR,Developed,Yes,Euro,"el-CY,tr-CY,en",.cy,CYP,Cyprus
+420,151,Europe,150,Czechia,Eastern Europe,Prague,EU,CZK,Developed,Yes,Czech Koruna,"cs,sk",.cz,CZE,Czechia
+49,155,Europe,150,Germany,Western Europe,Berlin,EU,EUR,Developed,Yes,Euro,de,.de,DEU,Germany
+253,202,Africa,2,Djibouti,Sub-Saharan Africa,Djibouti,AF,DJF,Developing,Yes,Djibouti Franc,"fr-DJ,ar,so-DJ,aa",.dj,DJI,Djibouti
+1-767,419,Americas,19,Dominica,Latin America and the Caribbean,Roseau,NA,XCD,Developing,Yes,East Caribbean Dollar,en-DM,.dm,DMA,Dominica
+45,154,Europe,150,Denmark,Northern Europe,Copenhagen,EU,DKK,Developed,Yes,Danish Krone,"da-DK,en,fo,de-DK",.dk,DNK,Denmark
+"1-809,1-829,1-849",419,Americas,19,Dominican Republic,Latin America and the Caribbean,Santo Domingo,NA,DOP,Developing,Yes,Dominican Peso,es-DO,.do,DOM,Dominican Republic
+213,15,Africa,2,Algeria,Northern Africa,Algiers,AF,DZD,Developing,Yes,Algerian Dinar,ar-DZ,.dz,DZA,Algeria
+593,419,Americas,19,Ecuador,Latin America and the Caribbean,Quito,SA,USD,Developing,Yes,US Dollar,es-EC,.ec,ECU,Ecuador
+20,15,Africa,2,Egypt,Northern Africa,Cairo,AF,EGP,Developing,Yes,Egyptian Pound,"ar-EG,en,fr",.eg,EGY,Egypt
+291,202,Africa,2,Eritrea,Sub-Saharan Africa,Asmara,AF,ERN,Developing,Yes,Nakfa,"aa-ER,ar,tig,kun,ti-ER",.er,ERI,Eritrea
+212,15,Africa,2,Western Sahara,Northern Africa,El-Aaiun,AF,MAD,Developing,In contention,Moroccan Dirham,"ar,mey",.eh,ESH,Western Sahara
+34,39,Europe,150,Spain,Southern Europe,Madrid,EU,EUR,Developed,Yes,Euro,"es-ES,ca,gl,eu,oc",.es,ESP,Spain
+372,154,Europe,150,Estonia,Northern Europe,Tallinn,EU,EUR,Developed,Yes,Euro,"et,ru",.ee,EST,Estonia
+251,202,Africa,2,Ethiopia,Sub-Saharan Africa,Addis Ababa,AF,ETB,Developing,Yes,Ethiopian Birr,"am,en-ET,om-ET,ti-ET,so-ET,sid",.et,ETH,Ethiopia
+358,154,Europe,150,Finland,Northern Europe,Helsinki,EU,EUR,Developed,Yes,Euro,"fi-FI,sv-FI,smn",.fi,FIN,Finland
+679,54,Oceania,9,Fiji,Melanesia,Suva,OC,FJD,Developing,Yes,Fiji Dollar,"en-FJ,fj",.fj,FJI,Fiji
+500,419,Americas,19,Falkland Islands (Malvinas),Latin America and the Caribbean,Stanley,SA,,Developing,Territory of GB,,en-FK,.fk,FLK,Falkland Islands
+33,155,Europe,150,France,Western Europe,Paris,EU,EUR,Developed,Yes,Euro,"fr-FR,frp,br,co,ca,eu,oc",.fr,FRA,France
+298,154,Europe,150,Faroe Islands,Northern Europe,Torshavn,EU,DKK,Developed,Part of DK,Danish Krone,"fo,da-FO",.fo,FRO,Faroe Islands
+691,57,Oceania,9,Micronesia (Federated States of),Micronesia,Palikir,OC,USD,Developing,Yes,US Dollar,"en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",.fm,FSM,Micronesia
+241,202,Africa,2,Gabon,Sub-Saharan Africa,Libreville,AF,XAF,Developing,Yes,CFA Franc BEAC,fr-GA,.ga,GAB,Gabon
+44,154,Europe,150,United Kingdom of Great Britain and Northern Ireland,Northern Europe,London,EU,GBP,Developed,Yes,Pound Sterling,"en-GB,cy-GB,gd",.uk,GBR,UK
+995,145,Asia,142,Georgia,Western Asia,Tbilisi,AS,GEL,Developing,Yes,Lari,"ka,ru,hy,az",.ge,GEO,Georgia
+44,154,Europe,150,Guernsey,Northern Europe,St Peter Port,EU,GBP,Developed,Crown dependency of GB,Pound Sterling,"en,nrf",.gg,GGY,Guernsey
+233,202,Africa,2,Ghana,Sub-Saharan Africa,Accra,AF,GHS,Developing,Yes,Ghana Cedi,"en-GH,ak,ee,tw",.gh,GHA,Ghana
+350,39,Europe,150,Gibraltar,Southern Europe,Gibraltar,EU,GIP,Developed,Territory of GB,Gibraltar Pound,"en-GI,es,it,pt",.gi,GIB,Gibraltar
+224,202,Africa,2,Guinea,Sub-Saharan Africa,Conakry,AF,GNF,Developing,Yes,Guinean Franc,fr-GN,.gn,GIN,Guinea
+590,419,Americas,19,Guadeloupe,Latin America and the Caribbean,Basse-Terre,NA,EUR,Developing,Part of FR,Euro,fr-GP,.gp,GLP,Guadeloupe
+220,202,Africa,2,Gambia,Sub-Saharan Africa,Banjul,AF,GMD,Developing,Yes,Dalasi,"en-GM,mnk,wof,wo,ff",.gm,GMB,Gambia
+245,202,Africa,2,Guinea-Bissau,Sub-Saharan Africa,Bissau,AF,XOF,Developing,Yes,CFA Franc BCEAO,"pt-GW,pov",.gw,GNB,Guinea-Bissau
+240,202,Africa,2,Equatorial Guinea,Sub-Saharan Africa,Malabo,AF,XAF,Developing,Yes,CFA Franc BEAC,"es-GQ,fr",.gq,GNQ,Equatorial Guinea
+30,39,Europe,150,Greece,Southern Europe,Athens,EU,EUR,Developed,Yes,Euro,"el-GR,en,fr",.gr,GRC,Greece
+1-473,419,Americas,19,Grenada,Latin America and the Caribbean,St. George's,NA,XCD,Developing,Yes,East Caribbean Dollar,en-GD,.gd,GRD,Grenada
+299,21,Americas,19,Greenland,Northern America,Nuuk,NA,DKK,Developed,Part of DK,Danish Krone,"kl,da-GL,en",.gl,GRL,Greenland
+502,419,Americas,19,Guatemala,Latin America and the Caribbean,Guatemala City,NA,GTQ,Developing,Yes,Quetzal,es-GT,.gt,GTM,Guatemala
+594,419,Americas,19,French Guiana,Latin America and the Caribbean,Cayenne,SA,EUR,Developing,Part of FR,Euro,fr-GF,.gf,GUF,French Guiana
+1-671,57,Oceania,9,Guam,Micronesia,Hagatna,OC,USD,Developing,Territory of US,US Dollar,"en-GU,ch-GU",.gu,GUM,Guam
+592,419,Americas,19,Guyana,Latin America and the Caribbean,Georgetown,SA,GYD,Developing,Yes,Guyana Dollar,en-GY,.gy,GUY,Guyana
+852,30,Asia,142,"China, Hong Kong Special Administrative Region",Eastern Asia,Hong Kong,AS,HKD,Developing,Part of CN,Hong Kong Dollar,"zh-HK,yue,zh,en",.hk,HKG,Hong Kong
+672,53,Oceania,9,Heard Island and McDonald Islands,Australia and New Zealand,,AN,AUD,Developed,Territory of AU,Australian Dollar,,.hm,HMD,Heard & McDonald Islands
+504,419,Americas,19,Honduras,Latin America and the Caribbean,Tegucigalpa,NA,HNL,Developing,Yes,Lempira,"es-HN,cab,miq",.hn,HND,Honduras
+385,39,Europe,150,Croatia,Southern Europe,Zagreb,EU,HRK,Developed,Yes,Kuna,"hr-HR,sr",.hr,HRV,Croatia
+509,419,Americas,19,Haiti,Latin America and the Caribbean,Port-au-Prince,NA,"HTG,USD",Developing,Yes,"Gourde,US Dollar","ht,fr-HT",.ht,HTI,Haiti
+36,151,Europe,150,Hungary,Eastern Europe,Budapest,EU,HUF,Developed,Yes,Forint,hu-HU,.hu,HUN,Hungary
+62,35,Asia,142,Indonesia,South-eastern Asia,Jakarta,AS,IDR,Developing,Yes,Rupiah,"id,en,nl,jv",.id,IDN,Indonesia
+44,154,Europe,150,Isle of Man,Northern Europe,Douglas,EU,GBP,Developed,Crown dependency of GB,Pound Sterling,"en,gv",.im,IMN,Isle of Man
+91,34,Asia,142,India,Southern Asia,New Delhi,AS,INR,Developing,Yes,Indian Rupee,"en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",.in,IND,India
+246,202,Africa,2,British Indian Ocean Territory,Sub-Saharan Africa,Diego Garcia,AS,USD,Developing,Territory of GB,US Dollar,en-IO,.io,IOT,British Indian Ocean Territory
+353,154,Europe,150,Ireland,Northern Europe,Dublin,EU,EUR,Developed,Yes,Euro,"en-IE,ga-IE",.ie,IRL,Ireland
+98,34,Asia,142,Iran (Islamic Republic of),Southern Asia,Tehran,AS,IRR,Developing,Yes,Iranian Rial,"fa-IR,ku",.ir,IRN,Iran
+964,145,Asia,142,Iraq,Western Asia,Baghdad,AS,IQD,Developing,Yes,Iraqi Dinar,"ar-IQ,ku,hy",.iq,IRQ,Iraq
+354,154,Europe,150,Iceland,Northern Europe,Reykjavik,EU,ISK,Developed,Yes,Iceland Krona,"is,en,de,da,sv,no",.is,ISL,Iceland
+972,145,Asia,142,Israel,Western Asia,Jerusalem,AS,ILS,Developed,Yes,New Israeli Sheqel,"he,ar-IL,en-IL,",.il,ISR,Israel
+39,39,Europe,150,Italy,Southern Europe,Rome,EU,EUR,Developed,Yes,Euro,"it-IT,de-IT,fr-IT,sc,ca,co,sl",.it,ITA,Italy
+1-876,419,Americas,19,Jamaica,Latin America and the Caribbean,Kingston,NA,JMD,Developing,Yes,Jamaican Dollar,en-JM,.jm,JAM,Jamaica
+44,154,Europe,150,Jersey,Northern Europe,Saint Helier,EU,GBP,Developed,Crown dependency of GB,Pound Sterling,"en,fr,nrf",.je,JEY,Jersey
+962,145,Asia,142,Jordan,Western Asia,Amman,AS,JOD,Developing,Yes,Jordanian Dinar,"ar-JO,en",.jo,JOR,Jordan
+81,30,Asia,142,Japan,Eastern Asia,Tokyo,AS,JPY,Developed,Yes,Yen,ja,.jp,JPN,Japan
+7,143,Asia,142,Kazakhstan,Central Asia,Astana,AS,KZT,Developing,Yes,Tenge,"kk,ru",.kz,KAZ,Kazakhstan
+254,202,Africa,2,Kenya,Sub-Saharan Africa,Nairobi,AF,KES,Developing,Yes,Kenyan Shilling,"en-KE,sw-KE",.ke,KEN,Kenya
+996,143,Asia,142,Kyrgyzstan,Central Asia,Bishkek,AS,KGS,Developing,Yes,Som,"ky,uz,ru",.kg,KGZ,Kyrgyzstan
+855,35,Asia,142,Cambodia,South-eastern Asia,Phnom Penh,AS,KHR,Developing,Yes,Riel,"km,fr,en",.kh,KHM,Cambodia
+686,57,Oceania,9,Kiribati,Micronesia,Tarawa,OC,AUD,Developing,Yes,Australian Dollar,"en-KI,gil",.ki,KIR,Kiribati
+1-869,419,Americas,19,Saint Kitts and Nevis,Latin America and the Caribbean,Basseterre,NA,XCD,Developing,Yes,East Caribbean Dollar,en-KN,.kn,KNA,St. Kitts & Nevis
+82,30,Asia,142,Republic of Korea,Eastern Asia,Seoul,AS,KRW,Developing,Yes,Won,"ko-KR,en",.kr,KOR,South Korea
+965,145,Asia,142,Kuwait,Western Asia,Kuwait City,AS,KWD,Developing,Yes,Kuwaiti Dinar,"ar-KW,en",.kw,KWT,Kuwait
+856,35,Asia,142,Lao People's Democratic Republic,South-eastern Asia,Vientiane,AS,LAK,Developing,Yes,Lao Kip,"lo,fr,en",.la,LAO,Laos
+961,145,Asia,142,Lebanon,Western Asia,Beirut,AS,LBP,Developing,Yes,Lebanese Pound,"ar-LB,fr-LB,en,hy",.lb,LBN,Lebanon
+231,202,Africa,2,Liberia,Sub-Saharan Africa,Monrovia,AF,LRD,Developing,Yes,Liberian Dollar,en-LR,.lr,LBR,Liberia
+218,15,Africa,2,Libya,Northern Africa,Tripoli,AF,LYD,Developing,Yes,Libyan Dinar,"ar-LY,it,en",.ly,LBY,Libya
+1-758,419,Americas,19,Saint Lucia,Latin America and the Caribbean,Castries,NA,XCD,Developing,Yes,East Caribbean Dollar,en-LC,.lc,LCA,St. Lucia
+423,155,Europe,150,Liechtenstein,Western Europe,Vaduz,EU,CHF,Developed,Yes,Swiss Franc,de-LI,.li,LIE,Liechtenstein
+94,34,Asia,142,Sri Lanka,Southern Asia,Colombo,AS,LKR,Developing,Yes,Sri Lanka Rupee,"si,ta,en",.lk,LKA,Sri Lanka
+266,202,Africa,2,Lesotho,Sub-Saharan Africa,Maseru,AF,"LSL,ZAR",Developing,Yes,"Loti,Rand","en-LS,st,zu,xh",.ls,LSO,Lesotho
+370,154,Europe,150,Lithuania,Northern Europe,Vilnius,EU,EUR,Developed,Yes,Euro,"lt,ru,pl",.lt,LTU,Lithuania
+352,155,Europe,150,Luxembourg,Western Europe,Luxembourg,EU,EUR,Developed,Yes,Euro,"lb,de-LU,fr-LU",.lu,LUX,Luxembourg
+371,154,Europe,150,Latvia,Northern Europe,Riga,EU,EUR,Developed,Yes,Euro,"lv,ru,lt",.lv,LVA,Latvia
+853,30,Asia,142,"China, Macao Special Administrative Region",Eastern Asia,Macao,AS,MOP,Developing,Part of CN,Pataca,"zh,zh-MO,pt",.mo,MAC,Macau
+590,419,Americas,19,Saint Martin (French Part),Latin America and the Caribbean,Marigot,NA,EUR,Developing,Part of FR,Euro,fr,.gp,MAF,St. Martin
+212,15,Africa,2,Morocco,Northern Africa,Rabat,AF,MAD,Developing,Yes,Moroccan Dirham,"ar-MA,ber,fr",.ma,MAR,Morocco
+377,155,Europe,150,Monaco,Western Europe,Monaco,EU,EUR,Developed,Yes,Euro,"fr-MC,en,it",.mc,MCO,Monaco
+373,151,Europe,150,Republic of Moldova,Eastern Europe,Chisinau,EU,MDL,Developed,Yes,Moldovan Leu,"ro,ru,gag,tr",.md,MDA,Moldova
+261,202,Africa,2,Madagascar,Sub-Saharan Africa,Antananarivo,AF,MGA,Developing,Yes,Malagasy Ariary,"fr-MG,mg",.mg,MDG,Madagascar
+960,34,Asia,142,Maldives,Southern Asia,Male,AS,MVR,Developing,Yes,Rufiyaa,"dv,en",.mv,MDV,Maldives
+52,419,Americas,19,Mexico,Latin America and the Caribbean,Mexico City,NA,MXN,Developing,Yes,Mexican Peso,es-MX,.mx,MEX,Mexico
+692,57,Oceania,9,Marshall Islands,Micronesia,Majuro,OC,USD,Developing,Yes,US Dollar,"mh,en-MH",.mh,MHL,Marshall Islands
+389,39,Europe,150,The former Yugoslav Republic of Macedonia,Southern Europe,Skopje,EU,MKD,Developed,Yes,Denar,"mk,sq,tr,rmm,sr",.mk,MKD,North Macedonia
+223,202,Africa,2,Mali,Sub-Saharan Africa,Bamako,AF,XOF,Developing,Yes,CFA Franc BCEAO,"fr-ML,bm",.ml,MLI,Mali
+356,39,Europe,150,Malta,Southern Europe,Valletta,EU,EUR,Developed,Yes,Euro,"mt,en-MT",.mt,MLT,Malta
+95,35,Asia,142,Myanmar,South-eastern Asia,Nay Pyi Taw,AS,MMK,Developing,Yes,Kyat,my,.mm,MMR,Myanmar
+382,39,Europe,150,Montenegro,Southern Europe,Podgorica,EU,EUR,Developed,Yes,Euro,"sr,hu,bs,sq,hr,rom",.me,MNE,Montenegro
+976,30,Asia,142,Mongolia,Eastern Asia,Ulan Bator,AS,MNT,Developing,Yes,Tugrik,"mn,ru",.mn,MNG,Mongolia
+1-670,57,Oceania,9,Northern Mariana Islands,Micronesia,Saipan,OC,USD,Developing,Commonwealth of US,US Dollar,"fil,tl,zh,ch-MP,en-MP",.mp,MNP,Northern Mariana Islands
+258,202,Africa,2,Mozambique,Sub-Saharan Africa,Maputo,AF,MZN,Developing,Yes,Mozambique Metical,"pt-MZ,vmw",.mz,MOZ,Mozambique
+222,202,Africa,2,Mauritania,Sub-Saharan Africa,Nouakchott,AF,MRU,Developing,Yes,Ouguiya,"ar-MR,fuc,snk,fr,mey,wo",.mr,MRT,Mauritania
+1-664,419,Americas,19,Montserrat,Latin America and the Caribbean,Plymouth,NA,XCD,Developing,Territory of GB,East Caribbean Dollar,en-MS,.ms,MSR,Montserrat
+596,419,Americas,19,Martinique,Latin America and the Caribbean,Fort-de-France,NA,EUR,Developing,Part of FR,Euro,fr-MQ,.mq,MTQ,Martinique
+230,202,Africa,2,Mauritius,Sub-Saharan Africa,Port Louis,AF,MUR,Developing,Yes,Mauritius Rupee,"en-MU,bho,fr",.mu,MUS,Mauritius
+265,202,Africa,2,Malawi,Sub-Saharan Africa,Lilongwe,AF,MWK,Developing,Yes,Malawi Kwacha,"ny,yao,tum,swk",.mw,MWI,Malawi
+60,35,Asia,142,Malaysia,South-eastern Asia,Kuala Lumpur,AS,MYR,Developing,Yes,Malaysian Ringgit,"ms-MY,en,zh,ta,te,ml,pa,th",.my,MYS,Malaysia
+262,202,Africa,2,Mayotte,Sub-Saharan Africa,Mamoudzou,AF,EUR,Developing,Part of FR,Euro,fr-YT,.yt,MYT,Mayotte
+264,202,Africa,2,Namibia,Sub-Saharan Africa,Windhoek,AF,"NAD,ZAR",Developing,Yes,"Namibia Dollar,Rand","en-NA,af,de,hz,naq",.na,NAM,Namibia
+687,54,Oceania,9,New Caledonia,Melanesia,Noumea,OC,XPF,Developing,Territory of FR,CFP Franc,fr-NC,.nc,NCL,New Caledonia
+227,202,Africa,2,Niger,Sub-Saharan Africa,Niamey,AF,XOF,Developing,Yes,CFA Franc BCEAO,"fr-NE,ha,kr,dje",.ne,NER,Niger
+672,53,Oceania,9,Norfolk Island,Australia and New Zealand,Kingston,OC,AUD,Developed,Territory of AU,Australian Dollar,en-NF,.nf,NFK,Norfolk Island
+234,202,Africa,2,Nigeria,Sub-Saharan Africa,Abuja,AF,NGN,Developing,Yes,Naira,"en-NG,ha,yo,ig,ff",.ng,NGA,Nigeria
+505,419,Americas,19,Nicaragua,Latin America and the Caribbean,Managua,NA,NIO,Developing,Yes,Cordoba Oro,"es-NI,en",.ni,NIC,Nicaragua
+683,61,Oceania,9,Niue,Polynesia,Alofi,OC,NZD,Developing,Associated with NZ,New Zealand Dollar,"niu,en-NU",.nu,NIU,Niue
+31,155,Europe,150,Netherlands,Western Europe,Amsterdam,EU,EUR,Developed,Yes,Euro,"nl-NL,fy-NL",.nl,NLD,Netherlands
+47,154,Europe,150,Norway,Northern Europe,Oslo,EU,NOK,Developed,Yes,Norwegian Krone,"no,nb,nn,se,fi",.no,NOR,Norway
+977,34,Asia,142,Nepal,Southern Asia,Kathmandu,AS,NPR,Developing,Yes,Nepalese Rupee,"ne,en",.np,NPL,Nepal
+674,57,Oceania,9,Nauru,Micronesia,Yaren,OC,AUD,Developing,Yes,Australian Dollar,"na,en-NR",.nr,NRU,Nauru
+64,53,Oceania,9,New Zealand,Australia and New Zealand,Wellington,OC,NZD,Developed,Yes,New Zealand Dollar,"en-NZ,mi",.nz,NZL,New Zealand
+968,145,Asia,142,Oman,Western Asia,Muscat,AS,OMR,Developing,Yes,Rial Omani,"ar-OM,en,bal,ur",.om,OMN,Oman
+92,34,Asia,142,Pakistan,Southern Asia,Islamabad,AS,PKR,Developing,Yes,Pakistan Rupee,"ur-PK,en-PK,pa,sd,ps,brh",.pk,PAK,Pakistan
+507,419,Americas,19,Panama,Latin America and the Caribbean,Panama City,NA,"PAB,USD",Developing,Yes,"Balboa,US Dollar","es-PA,en",.pa,PAN,Panama
+870,61,Oceania,9,Pitcairn,Polynesia,Adamstown,OC,NZD,Developing,Territory of GB,New Zealand Dollar,en-PN,.pn,PCN,Pitcairn Islands
+51,419,Americas,19,Peru,Latin America and the Caribbean,Lima,SA,PEN,Developing,Yes,Sol,"es-PE,qu,ay",.pe,PER,Peru
+63,35,Asia,142,Philippines,South-eastern Asia,Manila,AS,PHP,Developing,Yes,Philippine Peso,"tl,en-PH,fil,ceb,tgl,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx",.ph,PHL,Philippines
+680,57,Oceania,9,Palau,Micronesia,Melekeok,OC,USD,Developing,Yes,US Dollar,"pau,sov,en-PW,tox,ja,fil,zh",.pw,PLW,Palau
+675,54,Oceania,9,Papua New Guinea,Melanesia,Port Moresby,OC,PGK,Developing,Yes,Kina,"en-PG,ho,meu,tpi",.pg,PNG,Papua New Guinea
+48,151,Europe,150,Poland,Eastern Europe,Warsaw,EU,PLN,Developed,Yes,Zloty,pl,.pl,POL,Poland
+1,419,Americas,19,Puerto Rico,Latin America and the Caribbean,San Juan,NA,USD,Developing,Commonwealth of US,US Dollar,"en-PR,es-PR",.pr,PRI,Puerto Rico
+850,30,Asia,142,Democratic People's Republic of Korea,Eastern Asia,Pyongyang,AS,KPW,Developing,Yes,North Korean Won,ko-KP,.kp,PRK,North Korea
+351,39,Europe,150,Portugal,Southern Europe,Lisbon,EU,EUR,Developed,Yes,Euro,"pt-PT,mwl",.pt,PRT,Portugal
+595,419,Americas,19,Paraguay,Latin America and the Caribbean,Asuncion,SA,PYG,Developing,Yes,Guarani,"es-PY,gn",.py,PRY,Paraguay
+970,145,Asia,142,State of Palestine,Western Asia,East Jerusalem,AS,,Developing,In contention,No universal currency,ar-PS,.ps,PSE,Palestine
+689,61,Oceania,9,French Polynesia,Polynesia,Papeete,OC,XPF,Developing,Territory of FR,CFP Franc,"fr-PF,ty",.pf,PYF,French Polynesia
+974,145,Asia,142,Qatar,Western Asia,Doha,AS,QAR,Developing,Yes,Qatari Rial,"ar-QA,es",.qa,QAT,Qatar
+262,202,Africa,2,RÃ©union,Sub-Saharan Africa,Saint-Denis,AF,EUR,Developing,Part of FR,Euro,fr-RE,.re,REU,RÃ©union
+40,151,Europe,150,Romania,Eastern Europe,Bucharest,EU,RON,Developed,Yes,Romanian Leu,"ro,hu,rom",.ro,ROU,Romania
+7,151,Europe,150,Russian Federation,Eastern Europe,Moscow,EU,RUB,Developed,Yes,Russian Ruble,"ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,av,sah,nog",.ru,RUS,Russia
+250,202,Africa,2,Rwanda,Sub-Saharan Africa,Kigali,AF,RWF,Developing,Yes,Rwanda Franc,"rw,en-RW,fr-RW,sw",.rw,RWA,Rwanda
+966,145,Asia,142,Saudi Arabia,Western Asia,Riyadh,AS,SAR,Developing,Yes,Saudi Riyal,ar-SA,.sa,SAU,Saudi Arabia
+249,15,Africa,2,Sudan,Northern Africa,Khartoum,AF,SDG,Developing,Yes,Sudanese Pound,"ar-SD,en,fia",.sd,SDN,Sudan
+221,202,Africa,2,Senegal,Sub-Saharan Africa,Dakar,AF,XOF,Developing,Yes,CFA Franc BCEAO,"fr-SN,wo,fuc,mnk",.sn,SEN,Senegal
+65,35,Asia,142,Singapore,South-eastern Asia,Singapore,AS,SGD,Developing,Yes,Singapore Dollar,"cmn,en-SG,ms-SG,ta-SG,zh-SG",.sg,SGP,Singapore
+500,419,Americas,19,South Georgia and the South Sandwich Islands,Latin America and the Caribbean,Grytviken,AN,,Developing,Territory of GB,No universal currency,en,.gs,SGS,South Georgia & South Sandwich Islands
+290,202,Africa,2,Saint Helena,Sub-Saharan Africa,Jamestown,AF,SHP,Developing,Territory of GB,Saint Helena Pound,en-SH,.sh,SHN,St. Helena
+47,154,Europe,150,Svalbard and Jan Mayen Islands,Northern Europe,Longyearbyen,EU,NOK,Developed,Territory of NO,Norwegian Krone,"no,ru",.sj,SJM,Svalbard & Jan Mayen
+677,54,Oceania,9,Solomon Islands,Melanesia,Honiara,OC,SBD,Developing,Yes,Solomon Islands Dollar,"en-SB,tpi",.sb,SLB,Solomon Islands
+232,202,Africa,2,Sierra Leone,Sub-Saharan Africa,Freetown,AF,SLL,Developing,Yes,Leone,"en-SL,men,tem",.sl,SLE,Sierra Leone
+503,419,Americas,19,El Salvador,Latin America and the Caribbean,San Salvador,NA,"SVC,USD",Developing,Yes,"El Salvador Colon,US Dollar",es-SV,.sv,SLV,El Salvador
+378,39,Europe,150,San Marino,Southern Europe,San Marino,EU,EUR,Developed,Yes,Euro,it-SM,.sm,SMR,San Marino
+252,202,Africa,2,Somalia,Sub-Saharan Africa,Mogadishu,AF,SOS,Developing,Yes,Somali Shilling,"so-SO,ar-SO,it,en-SO",.so,SOM,Somalia
+508,21,Americas,19,Saint Pierre and Miquelon,Northern America,Saint-Pierre,NA,EUR,Developed,Part of FR,Euro,fr-PM,.pm,SPM,St. Pierre & Miquelon
+381,39,Europe,150,Serbia,Southern Europe,Belgrade,EU,RSD,Developed,Yes,Serbian Dinar,"sr,hu,bs,rom",.rs,SRB,Serbia
+211,202,Africa,2,South Sudan,Sub-Saharan Africa,Juba,AF,SSP,Developing,Yes,South Sudanese Pound,en,,SSD,South Sudan
+239,202,Africa,2,Sao Tome and Principe,Sub-Saharan Africa,Sao Tome,AF,STN,Developing,Yes,Dobra,pt-ST,.st,STP,Sao Tome and Principe
+597,419,Americas,19,Suriname,Latin America and the Caribbean,Paramaribo,SA,SRD,Developing,Yes,Surinam Dollar,"nl-SR,en,srn,hns,jv",.sr,SUR,Suriname
+421,151,Europe,150,Slovakia,Eastern Europe,Bratislava,EU,EUR,Developed,Yes,Euro,"sk,hu",.sk,SVK,Slovakia
+386,39,Europe,150,Slovenia,Southern Europe,Ljubljana,EU,EUR,Developed,Yes,Euro,"sl,sh",.si,SVN,Slovenia
+46,154,Europe,150,Sweden,Northern Europe,Stockholm,EU,SEK,Developed,Yes,Swedish Krona,"sv-SE,se,sma,fi-SE",.se,SWE,Sweden
+268,202,Africa,2,Eswatini,Sub-Saharan Africa,Mbabane,AF,SZL,Developing,Yes,Lilangeni,"en-SZ,ss-SZ",.sz,SWZ,Eswatini
+1-721,419,Americas,19,Sint Maarten (Dutch part),Latin America and the Caribbean,Philipsburg,NA,ANG,Developing,Part of NL,Netherlands Antillean Guilder,"nl,en",.sx,SXM,Sint Maarten
+248,202,Africa,2,Seychelles,Sub-Saharan Africa,Victoria,AF,SCR,Developing,Yes,Seychelles Rupee,"en-SC,fr-SC",.sc,SYC,Seychelles
+963,145,Asia,142,Syrian Arab Republic,Western Asia,Damascus,AS,SYP,Developing,Yes,Syrian Pound,"ar-SY,ku,hy,arc,fr,en",.sy,SYR,Syria
+1-649,419,Americas,19,Turks and Caicos Islands,Latin America and the Caribbean,Cockburn Town,NA,USD,Developing,Territory of GB,US Dollar,en-TC,.tc,TCA,Turks & Caicos Islands
+235,202,Africa,2,Chad,Sub-Saharan Africa,N'Djamena,AF,XAF,Developing,Yes,CFA Franc BEAC,"fr-TD,ar-TD,sre",.td,TCD,Chad
+228,202,Africa,2,Togo,Sub-Saharan Africa,Lome,AF,XOF,Developing,Yes,CFA Franc BCEAO,"fr-TG,ee,hna,kbp,dag,ha",.tg,TGO,Togo
+66,35,Asia,142,Thailand,South-eastern Asia,Bangkok,AS,THB,Developing,Yes,Baht,"th,en",.th,THA,Thailand
+992,143,Asia,142,Tajikistan,Central Asia,Dushanbe,AS,TJS,Developing,Yes,Somoni,"tg,ru",.tj,TJK,Tajikistan
+690,61,Oceania,9,Tokelau,Polynesia,,OC,NZD,Developing,Territory of NZ,New Zealand Dollar,"tkl,en-TK",.tk,TKL,Tokelau
+993,143,Asia,142,Turkmenistan,Central Asia,Ashgabat,AS,TMT,Developing,Yes,Turkmenistan New Manat,"tk,ru,uz",.tm,TKM,Turkmenistan
+670,35,Asia,142,Timor-Leste,South-eastern Asia,Dili,OC,USD,Developing,Yes,US Dollar,"tet,pt-TL,id,en",.tl,TLS,Timor-Leste
+676,61,Oceania,9,Tonga,Polynesia,Nuku'alofa,OC,TOP,Developing,Yes,Paâ€™anga,"to,en-TO",.to,TON,Tonga
+1-868,419,Americas,19,Trinidad and Tobago,Latin America and the Caribbean,Port of Spain,NA,TTD,Developing,Yes,Trinidad and Tobago Dollar,"en-TT,hns,fr,es,zh",.tt,TTO,Trinidad & Tobago
+216,15,Africa,2,Tunisia,Northern Africa,Tunis,AF,TND,Developing,Yes,Tunisian Dinar,"ar-TN,fr",.tn,TUN,Tunisia
+90,145,Asia,142,Turkey,Western Asia,Ankara,AS,TRY,Developing,Yes,Turkish Lira,"tr-TR,ku,diq,az,av",.tr,TUR,Turkey
+688,61,Oceania,9,Tuvalu,Polynesia,Funafuti,OC,AUD,Developing,Yes,Australian Dollar,"tvl,en,sm,gil",.tv,TUV,Tuvalu
+886,,,,Taiwan,,Taipei,AS,,Developing,Yes,,"zh-TW,zh,nan,hak",.tw,TWN,Taiwan
+255,202,Africa,2,United Republic of Tanzania,Sub-Saharan Africa,Dodoma,AF,TZS,Developing,Yes,Tanzanian Shilling,"sw-TZ,en,ar",.tz,TZA,Tanzania
+256,202,Africa,2,Uganda,Sub-Saharan Africa,Kampala,AF,UGX,Developing,Yes,Uganda Shilling,"en-UG,lg,sw,ar",.ug,UGA,Uganda
+380,151,Europe,150,Ukraine,Eastern Europe,Kyiv,EU,UAH,Developed,Yes,Hryvnia,"uk,ru-UA,rom,pl,hu",.ua,UKR,Ukraine
+Â ,57,Oceania,9,United States Minor Outlying Islands,Micronesia,,OC,USD,Developing,Territories of US,US Dollar,en-UM,.um,UMI,U.S. Outlying Islands
+598,419,Americas,19,Uruguay,Latin America and the Caribbean,Montevideo,SA,UYU,Developing,Yes,Peso Uruguayo,es-UY,.uy,URY,Uruguay
+1,21,Americas,19,United States of America,Northern America,Washington,NA,USD,Developed,Yes,US Dollar,"en-US,es-US,haw,fr",.us,USA,US
+998,143,Asia,142,Uzbekistan,Central Asia,Tashkent,AS,UZS,Developing,Yes,Uzbekistan Sum,"uz,ru,tg",.uz,UZB,Uzbekistan
+39-06,39,Europe,150,Holy See,Southern Europe,Vatican City,EU,EUR,Developed,Yes,Euro,"la,it,fr",.va,VAT,Vatican City
+1-784,419,Americas,19,Saint Vincent and the Grenadines,Latin America and the Caribbean,Kingstown,NA,XCD,Developing,Yes,East Caribbean Dollar,"en-VC,fr",.vc,VCT,St. Vincent & Grenadines
+58,419,Americas,19,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,Caracas,SA,VES,Developing,Yes,Venezuelan BolíVar (VEF),es-VE,.ve,VEN,Venezuela
+1-284,419,Americas,19,British Virgin Islands,Latin America and the Caribbean,Road Town,NA,USD,Developing,Territory of GB,US Dollar,en-VG,.vg,VGB,British Virgin Islands
+1-340,419,Americas,19,United States Virgin Islands,Latin America and the Caribbean,Charlotte Amalie,NA,USD,Developing,Territory of US,US Dollar,en-VI,.vi,VIR,U.S. Virgin Islands
+84,35,Asia,142,Viet Nam,South-eastern Asia,Hanoi,AS,VND,Developing,Yes,Dong,"vi,en,fr,zh,km",.vn,VNM,Vietnam
+678,54,Oceania,9,Vanuatu,Melanesia,Port Vila,OC,VUV,Developing,Yes,Vatu,"bi,en-VU,fr-VU",.vu,VUT,Vanuatu
+681,61,Oceania,9,Wallis and Futuna Islands,Polynesia,Mata Utu,OC,XPF,Developing,Territory of FR,CFP Franc,"wls,fud,fr-WF",.wf,WLF,Wallis & Futuna
+685,61,Oceania,9,Samoa,Polynesia,Apia,OC,WST,Developing,Yes,Tala,"sm,en-WS",.ws,WSM,Samoa
+967,145,Asia,142,Yemen,Western Asia,Sanaa,AS,YER,Developing,Yes,Yemeni Rial,ar-YE,.ye,YEM,Yemen
+27,202,Africa,2,South Africa,Sub-Saharan Africa,Pretoria,AF,ZAR,Developing,Yes,Rand,"zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",.za,ZAF,South Africa
+260,202,Africa,2,Zambia,Sub-Saharan Africa,Lusaka,AF,ZMW,Developing,Yes,Zambian Kwacha,"en-ZM,bem,loz,lun,lue,ny,toi",.zm,ZMB,Zambia
+263,202,Africa,2,Zimbabwe,Sub-Saharan Africa,Harare,AF,ZWL,Developing,Yes,Zimbabwe Dollar,"en-ZW,sn,nr,nd",.zw,ZWE,Zimbabwe
+,154,Europe,150,Sark,Northern Europe,,EU,EUR,Developed,Yes,,Sercquiais,,,Sark
